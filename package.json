@@ -1,0 +1,50 @@
+{
+  "name": "read-more-less-toggle",
+  "version": "1.10.0",
+  "description": "a simple react package to provide read more or less feature on paragraph",
+  "main": "./lib/ReadMoreLess.js",
+  "scripts": {
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrron313/react-read-more-less.git"
+  },
+  "keywords": [
+    "readmore",
+    "readless",
+    "react",
+    "js",
+    "npm",
+    "package"
+  ],
+  "author": "mrron313",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrron313/react-read-more-less/issues"
+  },
+  "homepage": "https://github.com/mrron313/react-read-more-less#readme",
+  "peerDependencies": {
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "css-loader": "^3.4.2",
+    "path": "^0.12.7",
+    "prop-types": "^15.6.0",
+    "react": "^16.8.0",
+    "react-dom": "^16.12.0",
+    "webpack": "^4.5.0",
+    "webpack-cli": "^3.2.1"
+  },
+  "dependencies": {
+    "react-scripts": "^3.3.1"
+  }
+}
