@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrron313/react-read-more-less.git"
+    "url": "git+https://github.com/mrron313/read-more-less-toggle.git"
   },
   "keywords": [
     "readmore",
@@ -22,9 +22,9 @@
   "author": "mrron313",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mrron313/react-read-more-less/issues"
+    "url": "https://github.com/mrron313/read-more-less-toggle/issues"
   },
-  "homepage": "https://github.com/mrron313/react-read-more-less#readme",
+  "homepage": "https://github.com/mrron313/read-more-less-toggle#readme",
   "peerDependencies": {
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
